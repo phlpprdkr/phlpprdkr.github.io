@@ -1,8 +1,8 @@
 ---
 title: Neustart mit 45
-date: 2024-10-11 17:12:00
+date: 2024-05-19 17:12:00
 categories: [golf]
-author: 1
+author: 100
 comments: true
 image:
   path: /images/ball_auf_fairway.jpg
