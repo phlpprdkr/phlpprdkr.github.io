@@ -4,5 +4,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Eins nach dem anderen.
 {: .prompt-tip }
+
+> Example line for prompt.
+{: .prompt-info }
+
+### Zwischenstand
+
+- [x] unter 120
+- [ ] unter 110
+- [ ] unter 100
+- [ ] unter 90

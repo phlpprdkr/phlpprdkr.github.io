@@ -1,8 +1,9 @@
 ---
 title: Neustart mit 45
 date: 2024-05-19 17:12:00
-categories: [golf]
-author: 100
+#categories: [golf]
+tags: neustart
+author: philipp
 comments: true
 image:
   path: /images/ball_auf_fairway.jpg
@@ -14,7 +15,7 @@ Fußball und Tennis fallen aus - wegen Knie - und jetzt ist Golf wieder dran.
 
 Mein Erfolg vor 20 Jahren war überschaubar. Auf meiner alten DGV-Karte steht was von HCP 40. Autsch. 😳
 
-![Flaghunting](/images/tee_off.jpg) _Der Ball ist im Spiel_
+![Flaghunting](/images/green.jpg) _Get it on the green_
 
 Zugegenen - mit 20 hab ich vor allem versucht weit zu schlagen und als Resultat viel Zeit im Gebüsch verbracht.
 
