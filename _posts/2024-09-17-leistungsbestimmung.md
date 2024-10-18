@@ -3,14 +3,26 @@ title: Leistungsbestimmung
 date: 2024-09-17 20:00:00
 #categories: [golf]
 tags: tournier pinnau breaking100 handycap
-description: Was ist das Trainging wert?
+description: Im Wintert ein Kurzspiel-Training. Eine Handvoll Runden in 2024 gespielt. Ein paar Schwünge auf der Range. Was ist das Training wert?
 author: philipp
 image:
   path: /images/tee_off.jpg
 ---
 
-> Dieser Artikel wird noch geschrieben.
+## Tee-Off
+
+Irgendwie ist es dann doch aufregend. Der Weg zum Tee. Auch wenn es noch so sehr ein Tag sein soll, der vor allem Spaß macht. Es ist ein anderes Spiel, als die Runde mit dem Freund.
+
+> Startzeit: 11:10 am 17. September
+
+Der [Golf-Club an der Pinnau](https://www.pinnau.de) ist aktuell mein Heimatverein und hat die Besonderheit, dass sie [drei 9-Loch-Plätze](https://www.pinnau.de/platz/uebersicht.html) zur Verfügung haben. Gepielt wurde in diesem Fall [Platz C](https://www.youtube.com/watch?v=MDm5k8SeTZw) als erste 9 und [Platz A](https://www.youtube.com/watch?v=6VeaFxiQZMQ) als zweite 9.
+
+Dabei ist mir der C-Platz der einzig bisher bekannte. Ich habe zu diesem Zeitpunt nur jeweils einmal 9 Loch und  18 Loch auf dem Platz des [Golf Resort Adenndorf](https://www.castanea-resort.de/de/golfanlage) gespielt, sowie einmal eben diesen C-Platz an der Pinnau.
+
+> Dieser Artikel wird noch geschrieben
 {: .prompt-info }
+
+## Das Ergebnis
 
 | Loch | Par | Score | Netto |
 | :- | :-: | -: | -: |
