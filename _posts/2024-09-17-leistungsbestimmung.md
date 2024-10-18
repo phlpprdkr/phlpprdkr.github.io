@@ -3,8 +3,8 @@ title: Leistungsbestimmung
 date: 2024-09-17 20:00:00
 #categories: [golf]
 tags: tournier pinnau breaking100 handycap
+description: Was ist das Trainging wert?
 author: philipp
-comments: true
 image:
   path: /images/tee_off.jpg
 ---
