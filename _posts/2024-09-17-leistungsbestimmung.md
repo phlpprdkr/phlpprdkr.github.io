@@ -19,6 +19,8 @@ Der [Golf-Club an der Pinnau](https://www.pinnau.de) ist aktuell mein Heimatvere
 
 Dabei ist mir der C-Platz der einzig bisher bekannte. Ich habe zu diesem Zeitpunt nur jeweils einmal 9 Loch und  18 Loch auf dem Platz des [Golf Resort Adenndorf](https://www.castanea-resort.de/de/golfanlage) gespielt, sowie einmal eben diesen C-Platz an der Pinnau.
 
+Mein erster Anlauf auf diesem Platz war kein gutes Omen. Es war eine Abendrunde und meine Flightpartner wollten direkt zum Abschlag, ohne sich vorher warmgeschlagen zu haben.
+
 > Dieser Artikel wird noch geschrieben
 {: .prompt-info }
 
