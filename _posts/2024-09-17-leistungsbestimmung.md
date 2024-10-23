@@ -2,8 +2,8 @@
 title: Leistungsbestimmung
 date: 2024-09-17 20:00:00
 #categories: [golf]
-tags: tournier pinnau breaking100 handycap
-description: Im Wintert ein Kurzspiel-Training. Eine Handvoll Runden in 2024 gespielt. Ein paar Schwünge auf der Range. Was ist das Training wert?
+tags: tournier pinnau breaking100 handycap leistungsbestimmung
+description: Im Winter ein Kurzspiel-Training. Eine Handvoll Runden in 2024 gespielt. Ein paar Schwünge auf der Range. Was ist das Training wert?
 author: philipp
 image:
   path: /images/tee_off.jpg
