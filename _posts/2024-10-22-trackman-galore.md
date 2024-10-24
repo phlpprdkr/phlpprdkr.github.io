@@ -27,11 +27,11 @@ Das also ist die entscheidende Motivation für meine erste Session mit dem Track
 ## Ansprechen und drauf dreschen[^1]
 ![Hit it](/images/range_balls.jpg){: .w-75 .shadow .rounded-10 w='1200' h='630' }
 
-Meine Güte macht das Spaß. Was ich zwar wußte, aber unterschätzt habe ist, dass man in der gebuchten Zeit so viele Bälle schlagen kann, wie man möchte - oder schafft 🏌🏼😎
+Meine Güte macht das Spaß. Was ich zwar wußte, aber unterschätzt habe ist, dass man in der gebuchten Zeit so viele Bälle schlagen kann, wie man möchte - oder schafft 🏌🏼😎 Challenge accepted!
 
 Vorher noch schnell die Trackman-App installiert, connected und Training gestartet. Driver raus und ballern. Keine Probeschwünge - jeder Schlag mit Ball. Was ein Gefühl.
 
-Und so wertlos das erst mal klingt, ich habe gemerkt wie gut ich in die Bewegung rein gekommen bin. Es waren erstaunlich viele gute Schläge dabei.
+Und so wertlos das erst mal klingt, ich habe gemerkt wie gut ich in die Bewegung rein gekommen bin. Es waren erstaunlich viele gute Schläge dabei. Keine Sekunde über Schwungabläufe nachgedacht. Intuitive Bewegung und Rhythmus.
 
 > Geheimtip: In einer Stunde 100+ Bälle schlagen, hilft extrem gegen Frust aller Art 😇
 {: .prompt-info }
@@ -39,7 +39,7 @@ Und so wertlos das erst mal klingt, ich habe gemerkt wie gut ich in die Bewegung
 ## Distanzen messen
 ![Wedges](/images/shot_dispersion_wedges.jpg){: width="300" height="650" .w-25 .right .rounded-10 .shadow}
 
-Was ich aber eigentlich will: Endlich möglichst genaue Daten zu meinen Schlägen haben. Und ich nehme es vorweg: Das hat nicht so gut geklappt. Aber das lag an mir.[^2]
+Aber was ich ja eigentlich will: Endlich möglichst genaue Daten zu meinen Schlägen haben. Wissen, welche Schläge, welche Länge und welche Streuung haben. Und ich nehme es vorweg: Das hat nicht so gut geklappt. Aber das lag an mir.[^2]
 
 Beim ersten Mal muss man ein bisschen konfigurieren. Vor allem muss man festlegen, welche Schläger im Bag sind und welche man bestimmen möchte.
 
@@ -47,10 +47,19 @@ Dann Schläger wählen und mit jedem Schläger so ca 10 Schläge machen. Eigentl
 
 *Wichtig*: Schläge mit denen man nicht zufrieden ist, lassen sich aus der History wieder löschen, damit sie nicht in das Ergebnis eingfließen.
 
-## Endlich ein Überblick
+Das beste Ergebnis hatte ich bei den beiden Wedges. Konstante Länge und Richtung.
+
+## Nach dem Training ist vor dem Training
 ![Trackman](/images/bag_241022.jpg){: width="300" height="650" .w-25 .left .rounded-10 .shadow}
 
-Auf dem Screenshot ist das Ergebnis der ersten Längenbestimmung zu sehen.
+Und so sieht die Zusammenfassung für das konfigurierte Bag dann aus.
+
+Angenommen die Werte wären jetzt einigermaßen korrekt - was ich hier nur für die kürzeren Eisen sagen kann - dann hilft das natürlich enorm bei der Planung der Runde.
+
+Und dabei geht es wirklich nicht darum, noch das letzte Bisschen an Länge rauszulitzeln. Das bringt dann bei meiner Trainingsfrequenz einfach wieder eine zu hohe Streuung rein.
+Es geht darum die Schläge so auszugtrainieren, dass sie vor allem zuverlässig sind. Dafür dann gerne 10 Meter weniger.
+
+Aber jetzt, da ich das einmal gecheckt habe, wie es funktioniert, hab ich die nächste Stunde schon gebucht. Und dann hab ich hoffentlich die Werte, nach denen ich suche.
 
 [^1]: Roy McAvoy in Tin Cup
 [^2]: Leider habe ich erst gegen Ende der Session verstanden, dass man Schläge auch aus dem Test wieder löschen kann. In den Durchschnittswerten sind auch Schläge mit 4, 10 oder 20 Metern drin, die ich einfach nicht getroffen habe. Daher ist das Ergebnis noch nicht besonders wertvoll. Aber ein guter erster Anhaltspunkt.
