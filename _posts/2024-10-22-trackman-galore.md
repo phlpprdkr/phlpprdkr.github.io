@@ -3,20 +3,17 @@ title: Trackman galore
 date: 2024-10-22 20:00:00
 #categories: [golf]
 tags: training range leistungsbestimmung distanz
-description: Ich habe es überall gesehen - auf YouTube, bei Profi-Tourniren oder auf Fotos von Freunden in an anderen Clubs -> Trackman und Launch-Monitore. Also auf zur Golf Lounge in Hamburg Moorfleet.
+description: Ich habe es überall gesehen - auf YouTube, bei Profi-Tourniren oder auf Fotos von Freunden in an anderen Clubs -> Trackman und Launch-Monitore. Also auf zur Golf Lounge in Hamburg Moorfleet. Die haben nämlich eine Range, die mit Trackman ausgestattet ist.
 author: philipp
 image:
   path: /images/trackman_screenshot.jpg
 ---
 
-> Dieser Artikel wird noch geschrieben
-{: .prompt-info }
+Eine der wichtigen Fragen, die ich mir stelle ist die, welches Training am effektivsten ist, um meinen Score zu verbessern. Wie bei vielen in meinem Alter, ist die Zeit der krasseste Faktor. Und bei einem Training alle zwei bis drei Wochen muss jedes Training einen Fortschritt bringen können.
 
-Eine der wichtigen Fragen, die ich mir stelle ist die, welches Training am effektivsten ist, um meinen Score zu verbessern. Wir viele in meinem Alter, ist die Zeit der krasseste Faktor und bei einem Training alle zwei bis drei Wochen muss jedes Training einen Fortschritt bringen können.
+Nun kann man natürlich sagen, dass jeder Ballkontakt nützlich ist - und das ist sicher wahr - dennoch glaube ich beispielsweise, dass das Training auf dem Green, aus dem Bunker oder Chipping wichtiger für meinen Score ist, als das auf der Range - wenn es um die Distanz geht.
 
-Nun kann man natürlich sagen, dass jeder Ballkontakt nützlich ist - und das ist sicher wahr - dennoch glaube ich beispielsweise, dass Training auf dem Green, aus dem Bunker oder Chipping wichtiger für meinen Score ist, als das auf der Range. Schon gar nicht, um mehr Distanz zu bekommen.
-
-Das Thema Score ist ein großes in Sich und das werde ich noch ausführlich behandeln. Aber für jetzt ist wichtig, dass der Score nur dann sinken kann, wenn man die Runde gut plant. Und gutes Planen der Runde geht nur dann, wenn man seine Längen kennt.
+Das Thema Score ist ein großes in sich und das werde ich noch ausführlich behandeln. Aber für jetzt ist wichtig, dass der Score nur dann sinken kann, wenn man die Runde gut plant. Und gutes Planen der Runde geht nur dann, wenn man seine Längen kennt.
 
 Das also ist die entscheidende Motivation für meine erste Session mit dem Trackman; wie ist meine Metrik. Zumindest zu dem aktuellen Zeitpunkt. Wichtig dafür sind folgende Grundwerte:
 
