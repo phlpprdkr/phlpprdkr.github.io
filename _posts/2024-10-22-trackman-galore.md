@@ -47,7 +47,7 @@ Dann Schläger wählen und mit jedem Schläger so ca 10 Schläge machen. Eigentl
 
 *Wichtig*: Schläge mit denen man nicht zufrieden ist, lassen sich aus der History wieder löschen, damit sie nicht in das Ergebnis eingfließen.
 
-Das beste Ergebnis hatte ich bei den beiden Wedges. Konstante Länge und Richtung.
+Das beste Ergebnis hatte ich bei den beiden Wedges. Konstante Länge und Richtung. Und das sieht man dann auch in der App (Siehe Screenshot). Mit der Streuung kann man arbeiten und die Länge ist auch einigermaßen konstant.
 
 ## Nach dem Training ist vor dem Training
 ![Trackman](/images/bag_241022.jpg){: width="300" height="650" .w-25 .left .rounded-10 .shadow}
