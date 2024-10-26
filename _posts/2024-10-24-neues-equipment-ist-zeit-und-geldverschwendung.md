@@ -1,9 +1,9 @@
 ---
-title: Neues Equipment ist Zeit- und Geldverschwendung
-date: 2024-10-22 20:00:00
-#categories: [golf]
+title: Die Equipmentfalle
+date: 2024-10-24 20:00:00
+#categories: [golf][equipment]
 tags: equipment benhogan eisen bag
-description: Das ist natürlich pauschal gesehen nicht unbedingt richtig - ich bin aber überzeugt, dass es für meine Mission zutrifft.
+description: Mein Bag und Schläger sind über 20 Jahre alt. Na und?
 author: philipp
 image:
   path: /images/eisen_9.jpg
